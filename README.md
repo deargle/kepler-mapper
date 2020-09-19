@@ -90,4 +90,4 @@ To credit KeplerMapper in your work, please cite both the [JOSS paper](https://d
 
 van Veen et al., (2019). Kepler Mapper: A flexible Python implementation of the Mapper algorithm. Journal of Open Source Software, 4(42), 1315, https://doi.org/10.21105/joss.01315
 
-Hendrik Jacob van Veen, Nathaniel Saul, Eargle, David, & Sam W. Mangham. (2019, October 14). Kepler Mapper: A flexible Python implementation of the Mapper algorithm (Version 1.3.3). Zenodo. http://doi.org/10.5281/zenodo.3485851
+Hendrik Jacob van Veen, Nathaniel Saul, David Eargle, & Sam W. Mangham. (2019, October 14). Kepler Mapper: A flexible Python implementation of the Mapper algorithm (Version 1.3.3). Zenodo. http://doi.org/10.5281/zenodo.3485851
